@@ -4,7 +4,7 @@ Upscale images using esrgan
 ### LIVE
 https://superres.streamlit.app/
 
-![Preview](Preview.png)
+![Preview](Preview.jpg)
 
 ### How to run it on your own machine
 
