@@ -1,8 +1,10 @@
 # superRES
-upscale images using esrgan
+Upscale images using esrgan
 
 ### LIVE
 https://superres.streamlit.app/
+
+![Preview](Preview.png)
 
 ### How to run it on your own machine
 
